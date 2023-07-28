@@ -1,0 +1,7 @@
+All commits: git log;
+git checkout <URL>;
+initialize repository: git init;
+git status;
+git add .;
+git commit -m 'initial commit';
+git branch; -- check branch
